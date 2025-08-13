@@ -22,10 +22,10 @@
 Teamfähig • Verantwortungsbewusst • Pünktlich • Selbstständig • Technikaffin • Organisationsfähigkeit • Problemlösungsorientiert • Lernbereitschaft  
 
 **💻 Hard Skills:**  
-Java • HTML • CSS • JavaScript • Python (Grundlagen) • SQL (Grundlagen) • Bootstrap • React (Grundlagen) • Git & GitHub • Docker (Grundlagen) • Linux-Basisbefehle  
+Java • HTML • CSS • JavaScript • Python (Grundlagen) • SQL • Bootstrap • React • Git & GitHub • Docker • Linux-Bash  
 
 **🎨 Design:**  
-Figma (Grundlagen) • Canva  
+Figma (Grundlagen) • Canva • InDesign (Grundlagen) 
 
 ---
 
